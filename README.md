@@ -1,0 +1,2 @@
+# Monitoring-Virtual-Classroom-In-E-learning-Environment-Using-Artificial-Intelligence
+This project uses Artificial intelligence (AI) and deep learning to system for e-learning applications. The system uses YOLOv8, MediaPipe and a Convolutional Neural Network (CNN) model classes students' behavior into two categories: 'focused' and 'distracted', proposed The solution achieves 94% accuracy in real time facial expression detection.
